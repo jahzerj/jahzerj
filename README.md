@@ -14,7 +14,9 @@ Front-end Development: Github, Javascript, CSS, HTML, ReactJS
 
 ### Let's connect and collaborate! :
 [My Email](mailto:jahzerahj@gmail.com)
+\
 [Linkedin](https://www.linkedin.com/in/jahzyjahzerah/)
+\
 [Xing](https://www.xing.com/profile/Jahaziel_Jahzerah/web_profiles)
 
 <!--
