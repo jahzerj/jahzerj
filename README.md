@@ -19,6 +19,12 @@ Front-end Development: Github, Javascript, CSS, HTML, ReactJS
 \
 [Xing](https://www.xing.com/profile/Jahaziel_Jahzerah/web_profiles)
 
+## <p align="center"> Like chemistry, software development isn't magic, but it sure feels like it when it works. Let's make some magic together! </p>
+<p align="center">
+  <img src="https://img.freepik.com/premium-vector/chemistry-is-magic-it-is-just-science-chemistry-banner-with-lettering_499431-80.jpg" alt='Science not magic!'/>
+</p>
+
+
 <!--
 **jahzerj/jahzerj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
