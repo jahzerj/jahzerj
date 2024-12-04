@@ -22,16 +22,11 @@ Front-end Development: Github, Javascript, CSS, HTML, ReactJS
   <img src="https://img.freepik.com/premium-vector/chemistry-is-magic-it-is-just-science-chemistry-banner-with-lettering_499431-80.jpg" alt='Science not magic!'/>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <!--
-**jahzerj/jahzerj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 ### Ordered List
 1. Word
 
-  
 ### Unordered List
   - First Item
   - Second Item
