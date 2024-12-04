@@ -1,4 +1,5 @@
-## Hi there 👋
+# Jahzy's Hub for Git
+## Hi there! 👋 I'm Jahzy
 
 <!--
 **jahzerj/jahzerj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
