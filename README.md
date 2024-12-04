@@ -5,9 +5,6 @@
 I am a chemist by training, but I love learning about the world from the big to the small. 
 I'm currently building my toolkit for web development. Check back in a month or two! 
 
-### Links
-[My Linkedin](https://www.linkedin.com/in/jahzyjahzerah/)
-
 ### My Skills (So Far)
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,discord,ai,ps,vscode,linkedin,py)](https://skillicons.dev)
 <!-- want to order by proficiency -->
