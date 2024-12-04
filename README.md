@@ -15,7 +15,10 @@ I'm currently building my toolkit for web development. Check back in a month or 
 ### 🌱 What I'm Learning :
 Front-end Development: Github, Javascript, CSS, HTML, ReactJS
 
-
+### Let's connect and collaborate! :
+[My Email](mailto:jahzerahj@gmail.com)
+[Linkedin](https://www.linkedin.com/in/jahzyjahzerah/)
+[Xing](https://www.xing.com/profile/Jahaziel_Jahzerah/web_profiles)
 
 <!--
 **jahzerj/jahzerj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
