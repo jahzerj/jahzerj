@@ -12,6 +12,11 @@ I'm currently building my toolkit for web development. Check back in a month or 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,discord,ai,ps,vscode,linkedin,py)](https://skillicons.dev)
 <!-- want to order by proficiency -->
 
+### 🌱 What I'm Learning :
+Front-end Development: Github, Javascript, CSS, HTML, ReactJS
+
+
+
 <!--
 **jahzerj/jahzerj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
