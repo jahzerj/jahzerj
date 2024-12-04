@@ -1,18 +1,9 @@
 # Jahzy's Hub for Git
-## Hi there! 👋 I'm Jahzy
+## 👋 Hi there! This is my Github page, there are many like it. But this one is mine.
 
-
-### Ordered List
-1. First item
-2. Second item
-3. Third item
-4. Fourth item
-
-### Unordered List
-- First
-- Second
-- Third
-- Fourth
+### About Me
+I am a chemist by training, but I love learning about the world from the big to the small. 
+I'm currently building my toolkit for web development. Check back in a month or two! 
 
 ### Links
 [My Linkedin](https://www.linkedin.com/in/jahzyjahzerah/)
