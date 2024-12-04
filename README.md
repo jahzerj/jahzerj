@@ -13,18 +13,16 @@ I'm currently building my toolkit for web development. Check back in a month or 
 Front-end Development: Github, Javascript, CSS, HTML, ReactJS
 
 ### Let's connect and collaborate! :
-[My Email](mailto:jahzerahj@gmail.com)
-\
-[Linkedin](https://www.linkedin.com/in/jahzyjahzerah/)
-\
-[Xing](https://www.xing.com/profile/Jahaziel_Jahzerah/web_profiles)
+[![Gmail Icon](https://skillicons.dev/icons?i=gmail)](mailto:jahzerahj@gmail.com)
+[[![Linkedin Icon](https://skillicons.dev/icons?i=linkedin)]](https://www.linkedin.com/in/jahzyjahzerah/)
+<!-- [[![Xing Icon](https://skillicons.dev/icons?i=apple)]](https://www.xing.com/profile/Jahaziel_Jahzerah/web_profiles) -->
 
 ## <p align="center"> Like chemistry, software development isn't magic, but it sure feels like it when it works. Let's make some magic together! </p>
 <p align="center">
   <img src="https://img.freepik.com/premium-vector/chemistry-is-magic-it-is-just-science-chemistry-banner-with-lettering_499431-80.jpg" alt='Science not magic!'/>
 </p>
 
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <!--
 **jahzerj/jahzerj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
