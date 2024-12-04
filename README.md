@@ -8,8 +8,10 @@ I'm currently building my toolkit for web development. Check back in a month or 
 ### Links
 [My Linkedin](https://www.linkedin.com/in/jahzyjahzerah/)
 
-### Images
-[This is a monkey](https://pasa.org/wp-content/uploads/2021/03/Vervet-Monkey-Foundation-credit-Kyle-2.jpg)
+### My Skills (So Far)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,discord,ai,ps,vscode,linkedin,py)](https://skillicons.dev)
+<!-- want to order by proficiency -->
+
 <!--
 **jahzerj/jahzerj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
