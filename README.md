@@ -8,7 +8,7 @@
 ## Let's build something together!
 
 ### About Me
-I'm Jahzy a chemist by training, I have about 12 years experience in the field of science and research, but I love learning about the world from the big to the small. In early 2025 I completed an intensive 3 month Web Development Bootcamp and I'm working on building up my software development toolkit. I am eager to leverage my broad project based skill set to solve problems and build solutions in a dedicated software development role. 
+I'm Jahzy a chemist by training with about 12 years experience in the field of science and research, but I love learning about the world from the big to the small. In early 2025 I completed an intensive 3 month Web Development Bootcamp and I'm working on building up my software development toolkit. I am eager to leverage my broad project based skill set to solve problems and build solutions in a dedicated software development role. 
 
 ### My Skills (So Far)
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,git,react,nextjs,materialui,mongodb,py,vscode,discord,instagram,ai,ps&perline=4)](https://skillicons.dev)
