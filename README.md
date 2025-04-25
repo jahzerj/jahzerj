@@ -14,7 +14,7 @@ I'm Jahzy a chemist by training, I have about 12 years experience in the field o
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,git,react,nextjs,materialui,mongodb,py,vscode,discord,instagram,ai,ps&perline=4)](https://skillicons.dev)
 <!-- want to order by proficiency -->
 
-### 🪴 What I'm Learning :
+### 🌱 What I'm Learning :
 MaterialUI/ MUI Base, HTMX, Python, Stable Diffusion web UI
 
 ### 🪴 What I've Learned :
