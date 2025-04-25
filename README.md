@@ -1,6 +1,6 @@
 -##  Like chemistry, software development isn't magic, but it sure feels like it when it works.  Let’s make the kind of software that _feels_ like magic!
 <p align="center">
-  <img src="https://res.cloudinary.com/dgn86s1e2/image/upload/v1745603759/science_not_magic_e6nibi.png" alt='Science not magic!'/>
+  <img src="https://res.cloudinary.com/dgn86s1e2/image/upload/v1745603759/science_not_magic_e6nibi.png" alt='Science not magic!'width="200" height="200"/>
 </p>
 
 
