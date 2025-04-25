@@ -31,8 +31,8 @@ Design concepts,
 [![Linkedin Icon](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jahzyjahzerah/)
 
 ### Languages
-English: Native
-German: Berlin ~C1
+- English: Native
+- German: Berlin ~C1
 
 
 
