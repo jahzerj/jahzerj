@@ -6,7 +6,7 @@ I am a chemist by training, but I love learning about the world from the big to 
 I'm currently building my toolkit for web development. Check back in a month or two! 
 
 ### My Skills (So Far)
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,mongodb,nextjs,materialui,git,github,py,vscode,discord,ai,ps,linkedin&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,react,nextjs,materialui,mongodb,py,vscode,discord,instagram,ai,ps&perline=4)](https://skillicons.dev)
 <!-- want to order by proficiency -->
 
 ### 🌱 What I've Learned :
