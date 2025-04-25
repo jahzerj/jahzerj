@@ -1,7 +1,7 @@
-<!--##  Like chemistry, software development isn't magic, but it sure feels like it when it works.  Let’s make the kind of software that _feels_ like magic!
+-##  Like chemistry, software development isn't magic, but it sure feels like it when it works.  Let’s make the kind of software that _feels_ like magic!
 <p align="center">
-  <img src="https://img.freepik.com/premium-vector/chemistry-is-magic-it-is-just-science-chemistry-banner-with-lettering_499431-80.jpg" alt='Science not magic!'/>
-</p>-->
+  <img src="https://res.cloudinary.com/dgn86s1e2/image/upload/v1745603759/science_not_magic_e6nibi.png" alt='Science not magic!'/>
+</p>
 
 
 # This is my Github page, there are many like it. But this one is mine.
