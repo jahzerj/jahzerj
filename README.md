@@ -1,20 +1,22 @@
-# Jahzy's Hub for Git
-## 👋 Hi there! This is my Github page, there are many like it. But this one is mine.
+# This is my Github page, there are many like it. But this one is mine.
+## 👋 Hi there! 
 
 ### About Me
 I am a chemist by training, but I love learning about the world from the big to the small. 
 I'm currently building my toolkit for web development. Check back in a month or two! 
 
 ### My Skills (So Far)
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,discord,ai,ps,vscode,linkedin,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,discord,ai,ps,vscode,linkedin,py&perline=4)](https://skillicons.dev)
 <!-- want to order by proficiency -->
 
-### 🌱 What I'm Learning :
-Front-end Development: Github, Javascript, CSS, HTML, ReactJS
+### 🌱 What I've Learned :
+Front-end Development: Github, Javascript, CSS, HTML, ReactJS, NextJs, 
+
+### 🌱 What I' Learning :
 
 ### Let's connect and collaborate! :
 [![Gmail Icon](https://skillicons.dev/icons?i=gmail)](mailto:jahzerahj@gmail.com)
-[[![Linkedin Icon](https://skillicons.dev/icons?i=linkedin)]](https://www.linkedin.com/in/jahzyjahzerah/)
+[![Linkedin Icon](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jahzyjahzerah/)
 <!-- [[![Xing Icon](https://skillicons.dev/icons?i=apple)]](https://www.xing.com/profile/Jahaziel_Jahzerah/web_profiles) -->
 
 ## <p align="center"> Like chemistry, software development isn't magic, but it sure feels like it when it works. Let's make some magic together! </p>
